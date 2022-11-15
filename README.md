@@ -138,7 +138,7 @@ RAPID_HOST = 'hotels4.p.rapidapi.com'
 
 <p>
 
-![example](https://s4.gifyu.com/images/bot_scr.gif)
+![bot_scr (2)](https://user-images.githubusercontent.com/99789236/201911891-6a8b771d-0f8e-42ab-8016-53e868352541.gif)
 
 </p>
 
